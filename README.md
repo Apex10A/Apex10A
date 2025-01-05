@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Praise Afolabi
 
-<!--
-**Apex10A/Apex10A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Frontend developer focused on creating impactful web applications. My journey in tech is driven by curiosity and a desire to build solutions that make a difference.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus
+- 🔭 I'm currently working on Drip Republic - Your Fashion Destination
+- 🌱 I'm currently learning Tpescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+```javascript
+const myTechStack = {
+    languages: ['JavaScript', 'HTML', 'CSS', 'React.js'],
+    frameworks: ['React', 'Next.js', 'TailwindCSS'],
+    databases: ['Firebase Realtime DB']
+    tools: ['Git', 'VS Code'],
+    design: ['Figma']
+};
+```
+
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+### 🤝 Connect with Me
+[![Twitter](https://x.com/dev_apexxr)](Your-Twitter-URL)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white](https://my-portfolio-apex.onrender.com/))](Your-Portfolio-URL)
+
+### 📫 How to reach me
+- 📧 Email: pafolabi740@gmail.com
+- 🌐 Website: [https://my-portfolio-apex.onrender.com/]
+
+### 🎯 Goals for 2024
+- [ ] Contribute to open source projects
+- [ ] Launch Drip Republic v1.0
+- [ ] Master Next.js and TypeScript
+- [ ] Build a personal blog
+- [ ] Maintain my Github contribution activity
+
+---
+⭐️ From [Apex10A](https://github.com/Apex10A)
