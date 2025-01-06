@@ -21,6 +21,7 @@ const myTechStack = {
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Apex10A&show_icons=true&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=Apex10A" alt="Apex10A" />
 
 ### 🤝 Connect with Me
 [![Twitter](https://x.com/dev_apexxr)](Your-Twitter-URL)
@@ -36,6 +37,7 @@ const myTechStack = {
 - [ ] Master Next.js and TypeScript
 - [ ] Build a personal blog
 - [ ] Maintain my Github contribution activity
+- [ ] Start my Backend journey
 
 ---
 ⭐️ From [Apex10A](https://github.com/Apex10A)
