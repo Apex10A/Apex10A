@@ -25,11 +25,11 @@ const myTechStack = {
 
 ### 🤝 Connect with Me
 [![Twitter](https://x.com/dev_apexxr)](Your-Twitter-URL)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white](https://my-portfolio-apex.onrender.com/))](Your-Portfolio-URL)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white](https://praise-afolabi.netlify.app/home))](Your-Portfolio-URL)
 
 ### 📫 How to reach me
 - 📧 Email: pafolabi740@gmail.com
-- 🌐 Website: [https://my-portfolio-apex.onrender.com/]
+- 🌐 Website: [https://praise-afolabi.netlify.app/home]
 
 ### 🎯 Goals for 2024
 - [ ] Contribute to open source projects
