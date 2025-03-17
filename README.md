@@ -5,7 +5,7 @@ I'm a passionate Frontend developer focused on creating impactful web applicatio
 
 ### 🎯 Current Focus
 - 🔭 I'm currently working on Drip Republic - Your Fashion Destination
-- 🌱 I'm currently learning Tpescript
+- 🌱 I'm currently learning Typescript
 
 ### 💻 Tech Stack
 ```javascript
@@ -37,7 +37,7 @@ const myTechStack = {
 - [ ] Master Next.js and TypeScript
 - [ ] Build a personal blog
 - [ ] Maintain my Github contribution activity
-- [ ] Start my Backend journey
+- [ ] Start learning node/PHP
 
 ---
 ⭐️ From [Apex10A](https://github.com/Apex10A)
