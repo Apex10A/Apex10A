@@ -4,8 +4,8 @@
 I'm a passionate Frontend developer focused on creating impactful web applications. My journey in tech is driven by curiosity and a desire to build solutions that make a difference.
 
 ### 🎯 Current Focus
-- 🔭 I'm currently working on Drip Republic - Your Fashion Destination
-- 🌱 I'm currently learning Typescript
+- 🔭 I'm currently working on alot of projects at a go 🤯
+- 🌱 I'm currently learning Typescript and Node.js
 
 ### 💻 Tech Stack
 ```javascript
@@ -31,13 +31,13 @@ const myTechStack = {
 - 📧 Email: pafolabi740@gmail.com
 - 🌐 Website: [https://praise-afolabi.netlify.app/home]
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - [ ] Contribute to open source projects
 - [ ] Launch Drip Republic v1.0
 - [ ] Master Next.js and TypeScript
 - [ ] Build a personal blog
-- [ ] Maintain my Github contribution activity
-- [ ] Start learning node/PHP
+- [ ] Maintain an intensive GitHub activity throughout the year 
+- [ ] Learn Node.js and Angular/Vue
 
 ---
 ⭐️ From [Apex10A](https://github.com/Apex10A)
