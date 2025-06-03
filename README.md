@@ -1,6 +1,3 @@
-# 👋 Hello World! I'm Praise Afolabi
-
-## 🚀 System Architect | UI/UX Enthusiast | Problem Solver
 
 ## 👋 Hi, I'm Praise Afolabi
 
