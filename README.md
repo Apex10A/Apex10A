@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** Vue, Typescript and svelte**
 
-- 💬 Ask me about **react, javascri...**
+- 💬 Ask me about **react, javascript...**
 
 - 📫 How to reach me **pafolabi740@gmail.com**
 - portfolio - https://praise-ngvu.vercel.app/
