@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apex10A" alt="praise" /></a> </p>
 
-- 🌱 I’m currently learning ** Vue, Typescript and svelte**
+- 🌱 I’m currently learning **Vue, Node and svelte**
 
 - 💬 Ask me about **react, javascript...**
 
