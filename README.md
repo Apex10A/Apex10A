@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Praise</h1>
-<h3 align="center">I build accessible, pixel-perfect experiences for the web and I test them properly.</h3>
+<h3 align="center">I build accessible, pixel-perfect experiences for the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Apex10A&label=Profile%20views&color=0e75b6&style=flat" alt="praise" /> </p>
 
