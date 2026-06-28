@@ -79,8 +79,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
-A Manifest V3 Chrome Extension that extracts content from any webpage and returns a structured AI summary. Built with a security-first architecture — the API key lives exclusively in the background service worker, never exposed to content scripts or the popup. Features bullet-point summaries, key insights, estimated reading time, and 24-hour URL-based caching.
-
 [View repo](https://github.com/Apex10A/ai-page-summarizer)
 
 ---
