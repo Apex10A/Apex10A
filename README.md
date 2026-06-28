@@ -79,10 +79,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
-### MutterBox — End-to-End Encrypted Messaging
-> Next.js · TypeScript · Web Crypto API · IndexedDB · WebSocket · RSA-OAEP · AES-GCM
-
-A secure messaging app where the server never sees plaintext. Built with hybrid encryption — AES-GCM for messages, RSA-OAEP for key exchange. Private keys are generated on the client, wrapped with PBKDF2-derived keys, and stored exclusively in IndexedDB. Features real-time messaging via WebSocket and automatic key restoration across devices.
 
 [View repo](https://github.com/Apex10A/mutterbox) · [Live demo](https://e2e-encryption-app.vercel.app/)
 
