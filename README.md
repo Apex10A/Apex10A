@@ -78,22 +78,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-
-Built from a formal Technical Requirements Document. The focus was engineering discipline — strict data contracts, deterministic route behavior, and a 34-test suite spanning unit, integration, and E2E layers. Includes offline support via a custom service worker and installable PWA manifest.
-
-[View repo](https://github.com/Apex10A/Habit-tracker-mobile-first) · [Live demo](https://habit-tracker-mobile-first.vercel.app/)
-
----
-
-### IAIIEA Platform
-> Next.js 14 · TypeScript · Tailwind CSS · Zustand · Framer Motion · Flutterwave
-
-Full-featured web platform for an international integrity and evaluation agency. Spans public-facing pages, an admin dashboard with Recharts data visualizations, a members-only portal, event scheduling, and Flutterwave-powered payment processing.
-
-[View repo](https://github.com/Apex10A)
-
----
-
 ## GitHub stats
 
 <div align="center">
