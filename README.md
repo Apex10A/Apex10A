@@ -79,10 +79,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
-[View repo](https://github.com/Apex10A/ai-page-summarizer)
-
----
-
 ### Habit Tracker PWA — Spec-driven with full test coverage
 > Next.js · TypeScript · Tailwind CSS · Vitest · Playwright · React Testing Library · PWA
 
