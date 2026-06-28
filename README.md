@@ -78,9 +78,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
----
-
-## Featured projects
 
 ### MutterBox — End-to-End Encrypted Messaging
 > Next.js · TypeScript · Web Crypto API · IndexedDB · WebSocket · RSA-OAEP · AES-GCM
