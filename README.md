@@ -79,9 +79,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
-### Habit Tracker PWA — Spec-driven with full test coverage
-> Next.js · TypeScript · Tailwind CSS · Vitest · Playwright · React Testing Library · PWA
-
 Built from a formal Technical Requirements Document. The focus was engineering discipline — strict data contracts, deterministic route behavior, and a 34-test suite spanning unit, integration, and E2E layers. Includes offline support via a custom service worker and installable PWA manifest.
 
 [View repo](https://github.com/Apex10A/Habit-tracker-mobile-first) · [Live demo](https://habit-tracker-mobile-first.vercel.app/)
