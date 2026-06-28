@@ -79,11 +79,6 @@ Two-time finalist at **HNG Internship**, one of Africa's most competitive develo
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
-
-[View repo](https://github.com/Apex10A/mutterbox) · [Live demo](https://e2e-encryption-app.vercel.app/)
-
----
-
 ### AI Page Summarizer — Chrome Extension
 > Chrome MV3 · JavaScript · Gemini API · Service Worker · Chrome Storage API
 
